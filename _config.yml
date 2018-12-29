@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  https://flyme.com
+title:  https://www.flyme.com
 subtitle: 分享技术，品味人生
 name: https://flyme.com
 email: 
@@ -17,7 +17,7 @@ favicon: favicon.png
 
 repository: lotusccr.github.io/lotus.github.io
 github_url: 
-url: https://flyme.com
+url: https://www.flyme.com
 
 ## Gem
 plugins:

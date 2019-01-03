@@ -15,9 +15,9 @@ keywords:
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: lotusccr.github.io/flyme
+repository: lotusccr.github.io/
 github_url: 
-url: https://lotusccr.github.io/flyme/
+url: https://lotusccr.github.io/
 
 ## Gem
 plugins:
